@@ -1,0 +1,17 @@
+Input:
+
+Assign a to 10
+Assign b to Add a a * with a a +
+Print b
+Assign b to 10
+Print b
+Print Divide a by b
+Print 10 a b * * 2 +
+
+Output:
+
+120
+10
+1
+1002
+Program End
